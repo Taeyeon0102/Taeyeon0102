@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-HUFS Undergrade Student 
-major: Computer Engineering
+- HUFS Undergrade Student 
+- major: Computer Engineering
 
