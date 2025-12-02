@@ -1,10 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Taeyeon0102/Taeyeon0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 현재 **[AI]**를 공부하고 있습니다.
 
-Here are some ideas to get you started:
+### 📚 Blog & Social
+- 📝 **Blog:** [(https://everforever.tistory.com)]
+- 📧 **Email:** [taeyeon0102.work@gmail.com]
 
-- HUFS Undergrade Student 
-- major: Computer Engineering
+<br>
 
+### 💻 My Tech Stack
+| 구분 | 기술 |
+| :--: | :-- |
+| **Language** | Python, C++, R |
+| **Frontend** | - |
+| **Tools** | Git, VS Code |
