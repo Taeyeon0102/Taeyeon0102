@@ -2,7 +2,7 @@
   <img src="#" width="100%">
   <br/>
   <h1>✨ Welcome to Taeyeon's Space ✨</h1>
-  <p>AI / Computer Vision / Algorithm</p>
+  <p>AI / Computer Vision / On-Device/p>
   <br/>
 </div>
 
@@ -15,7 +15,6 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Kaggle: Titanic & House Prices** | AI 기초 스터디 후 진행한 데이터 분석 | [View Code](링크) |
-| **PnP Algorithm Study** | 매주 진행했던 알고리즘 문제 풀이 아카이브 | [View Blog](링크) |
 
 <br/>
 <div align="center">
