@@ -2,7 +2,7 @@
   <img src="#" width="100%">
   <br/>
   <h1>✨ Welcome to Taeyeon's Space ✨</h1>
-  <p>AI / Computer Vision / On-Device/p>
+  <p>AI / Computer Vision / On-Device</p>
   <br/>
 </div>
 
